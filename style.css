@@ -1,0 +1,48 @@
+.radio-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-between;
+    flex-wrap: wrap;
+
+}
+.final{
+    background-color: rgb(220, 211, 211);
+}
+
+.form-control{
+    border:1px solid black;
+}
+.changes{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    font-size: x-small;
+    margin-left:140px;
+}
+.required{
+    color:red;
+}
+.title{
+    display: flex;
+    flex-wrap:wrap;
+
+}
+.container{
+    font-size: small;
+    position: relative;
+}
+.changes1{
+    margin-left: 140px
+   
+}
+h5{
+    font-size: small;}
+
+   .container-sm{
+    margin:20px;
+    padding: 20px;
+    font-size: xx-small;
+   }
+.setting{
+    text-align: left;
+}
